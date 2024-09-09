@@ -42,7 +42,8 @@
 | Cobo et al. [Cobo et al., 2024]                  | ❌     | 6D     | -       | -         | -        | 7.45    |
 | 5DResNet (ours)                                  | ✅     | 5D     | **5.96**| **7.68**  | **6.28** | **6.64**|
 
-
+RR: Rotation Representation.
+R: Retraining.
 
 # Dataset
 
