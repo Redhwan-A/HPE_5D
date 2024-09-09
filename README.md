@@ -55,7 +55,7 @@ R: Retraining.
 
 
 
-## **Training **:
+## Training:
 
 
 
@@ -69,7 +69,7 @@ python3 train_5D_Resnet.py
 
 
 
-## **Testing **:
+## Testing:
 
 ```
 python3 test_Resnet.py
