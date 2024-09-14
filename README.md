@@ -1,5 +1,5 @@
 
-**Paper titled: Head Pose Estimation Based on 5D Rotation Representation [here](https://ieeexplore.ieee.org/abstract/document/10651821)**
+**Paper titled: Head Pose Estimation Based on 5D Rotation Representation [[paper](https://ieeexplore.ieee.org/abstract/document/10651821)]**
 
 
 
